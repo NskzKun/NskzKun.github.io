@@ -295,3 +295,17 @@ opacity: 0;
 transition: .5s ease;
 background-color: rgba(0,0,0,0.23);
 }
+
+.portada1{
+align-content: center;
+align-self: center;
+padding-top: 3px;
+padding-left: 800px;
+}
+
+.portada{
+
+
+    height: 800px;
+    width: 500px;
+}
